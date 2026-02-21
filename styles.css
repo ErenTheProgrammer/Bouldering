@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align:center;
+}
+
+nav {
+    margin:15px;
+    text-align:center;
+}
+
+.r {
+    text-align:center;
+    border-left:10px dotted black;
+    padding:2px;
+    margin:40px;
+}
+
+footer {
+    background-color:black;
+    padding:5px;
+}
+
+footer p {
+    background-color:white;
+    margin:10px;
+    padding:5px;
+}
+
+main p {
+    border:1px solid black;
+    border-radius:30px;
+    padding:20px;
+    margin:70px;
+}
+
+img {
+    text-align:left;
+}
+
+nav a {
+    color:black;
+    padding:20px;
+    margin:5px;
+    text-decoration-thickness:4px;
+}
+
+a {
+    color:blue;
+}
